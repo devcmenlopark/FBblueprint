@@ -17,6 +17,27 @@ https://www.facebookblueprint.com/student/path/187904/activity/157873
 #### Capítulo 3 - Crear y Configurar Facebook Pixel
 En este capítulo, aprenderá cómo crear un píxel de Facebook, configurarlo en un sitio web y comenzar a enviar eventos.
 
+```
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', 'SU_ID');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2437036956613639&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+```
+
 https://www.facebookblueprint.com/student/path/187904/activity/157874
 
 #### Capítulo 4 - Eventos y Parámetros avanzados
