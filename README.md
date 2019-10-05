@@ -8,7 +8,7 @@ En este capítulo, aprenderá los beneficios de usar un píxel de Facebook, qué
 https://www.facebookblueprint.com/student/path/187904/activity/157872
 
 #### Capítulo 2 - Business Manager
-En este capítulo, aprenderá todo lo que necesita para comenzar con Business Manager, desde crear su cuenta y agregar activos, hasta asignar los permisos correctos a todo su equipo.
+En este capítulo, aprenderá todo lo que necesita para comenzar con Business Manager: https://business.facebook.com desde crear su cuenta y agregar activos, hasta asignar los permisos correctos a todo su equipo.
 
 https://www.facebookblueprint.com/student/path/187904/activity/157873
 
