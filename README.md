@@ -1,10 +1,16 @@
 ## Curso para la Certificación en Facebook Ad Products Developer I 🤖 
-Documentación en Español del curso para la Certificación de Facebook Ad Products Developer I del programa Facebook Blue Print. La traducción del repositorio está desarrollado mediante la contribución de líderes de comunidades Developer Circles en América Latina en ciudades como Ciudad de México, Bogotá, Guatemala y San José. 
+Documentación en Español para la preparación a la Certificación de Facebook Ad Products Developer I del programa Facebook Blueprint. La traducción del repositorio está desarrollada mediante la contribución de líderes de comunidades Developer Circles de LATAM en ciudades como 🇲🇽 Ciudad de México, 🇨🇴 Bogotá, 🇬🇹 Guatemala & 🇨🇷 San José. 
 
 
 #### Capítulo 1 - Facebook Pixel: Que, cómo y por qué?
+En este capítulo, aprenderá los beneficios de usar un píxel de Facebook, qué es y cómo funciona.
+
+El píxel de Facebook es una herramienta que lo ayuda a comprender las actividades de un consumidor en su sitio web y a utilizar esas actividades en la plataforma de Facebook para medir la efectividad de su publicidad, optimizar la entrega de sus anuncios y definir su propio público objetivo.
+
+https://www.facebookblueprint.com/student/path/187904/activity/157872
 
 #### Capítulo 2 - Business Manager
+
 
 #### Capítulo 3 - Crear y Configurar Facebook Pixel
 
