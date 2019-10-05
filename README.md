@@ -1,5 +1,5 @@
 ## Curso para la Certificación en Facebook Ad Products Developer I 🤖 
-Documentación en Español para la preparación a la Certificación de Facebook Ad Products Developer I del programa Facebook Blueprint. La traducción del repositorio está desarrollada mediante la contribución de líderes de comunidades Developer Circles de LATAM en ciudades como 🇲🇽 Ciudad de México, 🇨🇴 Bogotá, 🇬🇹 Guatemala & 🇨🇷 San José. 
+Documentación en Español para la preparación a la Certificación en Facebook Ad Products Developer I del programa Facebook Blueprint: https://www.facebook.com/business/learn/certification/exams/500-101-exam La traducción del repositorio está desarrollada mediante la contribución de líderes de comunidades Developer Circles de LATAM en ciudades como 🇲🇽 Ciudad de México, 🇨🇴 Bogotá, 🇬🇹 Guatemala & 🇨🇷 San José. 
 
 
 #### Capítulo 1 - Facebook Pixel: Que, cómo y por qué?
