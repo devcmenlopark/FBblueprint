@@ -5,14 +5,14 @@ Documentación en Español para la preparación a la Certificación en Facebook 
 #### Capítulo 1 - Facebook Pixel: Qué es y cómo funciona?
 En este capítulo, aprenderá los beneficios de usar un píxel de Facebook, qué es y cómo funciona. El píxel de Facebook es una herramienta que lo ayuda a comprender las actividades de un consumidor en su sitio web y a utilizar esas actividades en la plataforma de Facebook para medir la efectividad de su publicidad, optimizar la entrega de sus anuncios y definir su propio público objetivo.
 
-FB Live: https://www.facebook.com/leo.aiassistant/videos/10157336070437279/
+**FB Live:** https://www.facebook.com/leo.aiassistant/videos/10157336070437279/
 
 > Curso 1: https://www.facebookblueprint.com/student/path/187904/activity/157872
 
 #### Capítulo 2 - Business Manager
 En este capítulo, aprenderá todo lo que necesita para comenzar con Business Manager: https://business.facebook.com desde crear su cuenta y agregar activos, hasta asignar los permisos correctos a todo su equipo.
 
-FB Live: https://www.facebook.com/leo.aiassistant/videos/10157336070437279/
+**FB Live:** https://www.facebook.com/leo.aiassistant/videos/10157336070437279/
 
 > Curso 2: https://www.facebookblueprint.com/student/path/187904/activity/157873
 
@@ -44,7 +44,7 @@ En este capítulo, aprenderá cómo crear un píxel de Facebook, configurarlo en
 
 > En el código de su página web, busque las etiquetas < head > </ head>. Antes del final de la etiqueta < head >, inserte su código de píxel.
 
-FB Live: https://www.facebook.com/leo.aiassistant/videos/10157336070437279/
+**FB Live:** https://www.facebook.com/leo.aiassistant/videos/10157336070437279/
 
 > Curso 3: https://www.facebookblueprint.com/student/path/187904/activity/157874
 
