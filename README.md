@@ -40,7 +40,7 @@ En este capítulo, aprenderá cómo crear un píxel de Facebook, configurarlo en
 
 > Una vez que haya creado su píxel, debe incrustar el código de píxel en su sitio web.
 
-> En el código de su página web, busque las etiquetas <head> </head>. Antes del final de la etiqueta <head>, inserte su código de píxel.
+> En el código de su página web, busque las etiquetas < head > </ head>. Antes del final de la etiqueta < head >, inserte su código de píxel.
 
 https://www.facebookblueprint.com/student/path/187904/activity/157874
 
