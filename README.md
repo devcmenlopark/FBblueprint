@@ -18,6 +18,7 @@ https://www.facebookblueprint.com/student/path/187904/activity/157873
 En este capítulo, aprenderá cómo crear un píxel de Facebook, configurarlo en un sitio web y comenzar a enviar eventos.
 
 ```
+<!-- Facebook Pixel Code -->
 <script>
   !function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -33,7 +34,7 @@ En este capítulo, aprenderá cómo crear un píxel de Facebook, configurarlo en
 <noscript><img height="1" width="1" style="display:none"
   src="https://www.facebook.com/tr?id=2437036956613639&ev=PageView&noscript=1"
 /></noscript>
-
+<!-- End Facebook Pixel Code -->
 
 ```
 
