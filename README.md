@@ -1,4 +1,4 @@
-## Curso para la Certificación en Facebook Ad Products Developer I 🤖 
+## Grupo de Estudio DevC LATAM para la Certificación en Facebook Ad Products Developer I 🤖 
 Documentación en Español para la preparación a la [Certificación en Facebook Ad Products Developer I](https://www.facebook.com/business/learn/certification/exams/500-101-exam)
  del programa Facebook Blueprint: https://www.facebook.com/business/learn/certification/ La traducción del repositorio está desarrollada mediante la contribución de líderes de comunidades Developer Circles de LATAM en ciudades como 🇲🇽 Ciudad de México, 🇨🇴 Bogotá, 🇬🇹 Guatemala & 🇨🇷 San José. 
 
