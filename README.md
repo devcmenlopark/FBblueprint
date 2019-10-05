@@ -89,5 +89,5 @@ La primera solución que Facebook lanzó para una vertical específica fue Dynam
  
 > Curso 9: https://www.facebookblueprint.com/student/path/187904/activity/160302
 
-#### Contributors: DevC Lead: Ciudad de México (Martín Manriquez), Bogotá (Ana B. Martínez & Oscar Barajas), Guatemala (Daniel Lara), San José (Leo Camacho).  
+#### Contributors: DevC Lead: Ciudad de México (Martín Manriquez), Bogotá (Ana B. Martínez, Camilo Montañez & Oscar Barajas), Guatemala (Daniel Lara), San José (Leo Camacho).  
 
