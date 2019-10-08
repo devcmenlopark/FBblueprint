@@ -5,7 +5,12 @@ Documentación en Español para la preparación a la [Certificación en Facebook
 
 
 #### Capítulo 1 - Facebook Pixel: Qué es y cómo funciona?
-En este capítulo, aprenderá los beneficios de usar un píxel de Facebook, qué es y cómo funciona. El píxel de Facebook es una herramienta que lo ayuda a comprender las actividades de un consumidor en su sitio web y a utilizar esas actividades en la plataforma de Facebook para medir la efectividad de su publicidad, optimizar la entrega de sus anuncios y definir su propio público objetivo.
+En este capítulo, aprenderá los beneficios de usar un píxel de Facebook, qué es y cómo funciona. El píxel de Facebook es una herramienta que lo ayuda a comprender las actividades de un consumidor en su sitio web y a utilizar esas actividades en la plataforma de Facebook para medir la efectividad de su publicidad, optimizar el targeting & retargeting de sus anuncios y definir su propio público objetivo.
+
+**Beneficios:**
+1)Evaluar el retorno sobre su inversión en el gasto de anuncios.
+2)Medir conversiones en múltiples dispositivos.
+3)Optimizar la efectividad de sus anuncios. 
 
 **FB Live:** https://www.facebook.com/leo.aiassistant/videos/10157336070437279/
 
@@ -17,6 +22,8 @@ En este capítulo, aprenderá todo lo que necesita para comenzar con Business Ma
 **FB Live:** https://www.facebook.com/leo.aiassistant/videos/10157336070437279/
 
 > Curso 2: https://www.facebookblueprint.com/student/path/187904/activity/157873
+
+
 
 #### Capítulo 3 - Crear y Configurar Facebook Pixel
 En este capítulo, aprenderá cómo crear un píxel de Facebook, configurarlo en un sitio web y comenzar a enviar eventos.
@@ -46,9 +53,18 @@ En este capítulo, aprenderá cómo crear un píxel de Facebook, configurarlo en
 
 > En el código de su página web, busque las etiquetas < head > </ head>. Antes del final de la etiqueta < head >, inserte su código de píxel.
 
+**Cómo se hace el match de personas?**
+1. FB almacena un hash (IP, Agent, FB Login Data).
+2. Cuanda un sitio web recibe una visita (FB server recibe un PixellCall).
+3. FB almacena esa visita con un Hash.
+4. En este momento FB puede asociar patrones con un id. 
+
+
 **FB Live:** https://www.facebook.com/leo.aiassistant/videos/10157336070437279/
 
 > Curso 3: https://www.facebookblueprint.com/student/path/187904/activity/157874
+
+
 
 #### Capítulo 4 - Eventos y Parámetros avanzados
 En este capítulo, aprenderá a usar JavaScript para enviar eventos múltiples y personalizados en una página, e incluirá datos más allá de la URL de referencia. Luego puede usar estos eventos y los datos personalizados asociados en Facebook para definir una audiencia personalizada y realizar un seguimiento del rendimiento de sus campañas publicitarias.
