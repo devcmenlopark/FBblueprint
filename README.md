@@ -17,7 +17,13 @@ En este capítulo, aprenderá los beneficios de usar un píxel de Facebook, qué
 > Curso 1: https://www.facebookblueprint.com/student/path/187904/activity/157872
 
 #### Capítulo 2 - Business Manager
-En este capítulo, aprenderá todo lo que necesita para comenzar con Business Manager: https://business.facebook.com desde crear su cuenta y agregar activos, hasta asignar los permisos correctos a todo su equipo.
+En este capítulo, aprenderá todo lo que necesita para comenzar con Business Manager: https://business.facebook.com desde crear su cuenta y agregar activos, hasta asignar los permisos correctos a todo su equipo. El Business Manager es una plataforma gratuita de FB que nos ayuda a integrar los esfuerzos de Marketing en un solo lugar:
+
+-Realice y mida sus campañas de anuncios.
+-Administre activos (Páginas & Cuentas de anuncios)
+-Agregue agencias or Partners de Marketing
+
+**Cada Business Manager puede crear un máximo de 10 Pixel codes. **
 
 **FB Live:** https://www.facebook.com/leo.aiassistant/videos/10157336070437279/
 
@@ -26,7 +32,11 @@ En este capítulo, aprenderá todo lo que necesita para comenzar con Business Ma
 
 
 #### Capítulo 3 - Crear y Configurar Facebook Pixel
-En este capítulo, aprenderá cómo crear un píxel de Facebook, configurarlo en un sitio web y comenzar a enviar eventos.
+En este capítulo, aprenderá cómo crear un píxel de Facebook, configurarlo en un sitio web y comenzar a enviar eventos. Existen 3 opciones para integrar el código Píxel: i_Integrar Manualmente, ii_Utilizar un Tag Manager o iii_Enviar por email las instrucciones al desarrollador.
+
+A continuación se describe la opción de integración manualmente:
+
+> Una vez que haya creado su píxel, debe incrustar el código de píxel en su sitio web.
 
 ```
 <!-- Facebook Pixel Code -->
@@ -48,8 +58,6 @@ En este capítulo, aprenderá cómo crear un píxel de Facebook, configurarlo en
 <!-- End Facebook Pixel Code -->
 
 ```
-
-> Una vez que haya creado su píxel, debe incrustar el código de píxel en su sitio web.
 
 > En el código de su página web, busque las etiquetas < head > </ head>. Antes del final de la etiqueta < head >, inserte su código de píxel.
 
